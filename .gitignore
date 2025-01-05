@@ -1,3 +1,7 @@
+#AoC problem inputs
+example.txt
+input.txt
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,4 @@
 *.exe
 *.out
 *.app
+bin/
