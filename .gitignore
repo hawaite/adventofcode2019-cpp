@@ -35,3 +35,4 @@ input.txt
 *.out
 *.app
 bin/
+obj/
